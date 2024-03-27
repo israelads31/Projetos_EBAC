@@ -1,1 +1,1 @@
-![Como funciona](images/calculadoramedia)
+![Como funciona](images/calculadoramedia.png)
